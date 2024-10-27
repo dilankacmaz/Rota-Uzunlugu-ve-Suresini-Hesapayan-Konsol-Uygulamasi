@@ -1,4 +1,4 @@
-Ã…Â�ehirler ve KodlarÃ„Â±:
+Şehirler ve Kodları:
 izmir 1
 ankara 2
 istanbul 3
@@ -11,13 +11,13 @@ Graf:
 3	500	520	0	430	0
 4	0	300	430	0	0
 5	450	470	0	0	0
-KiÃ…Å¸iler ve BaÃ…Å¸langÃ„Â±ÃƒÂ§ NoktalarÃ„Â±:
+Kişiler ve Başlangıç Noktaları:
 melike antalya
 mustafa bartın
 mert ankara
 mehmet izmir
 ahmet ankara
-KiÃ…Å¸ilerin Seyahat NoktalarÃ„Â± ve HÃ„Â±zlarÃ„Â±:
+Kişilerin Seyahat Noktaları ve Hızları:
 melike antalya-ankara-bartın-istanbul 2 km/dk
 mustafa bartın-ankara-antalya 2,5 km/dk
 mert izmir-antalya-ankara-istanbul 2,3 km/dk
